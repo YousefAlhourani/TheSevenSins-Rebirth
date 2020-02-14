@@ -1,5 +1,5 @@
 # TheSevenSins-Rebirth
-Graduation Project for Princess Sumaya's University Of Technology.
+Graduation Project for Princess Sumaya's University For Technology.
 
 
 
