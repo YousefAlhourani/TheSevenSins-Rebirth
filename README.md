@@ -1,5 +1,5 @@
 # TheSevenSins-Rebirth
-Graduation Project created for Princess Sumaya's University For Technology in their Computer Graphics and Animation department.
+All Scripts for my Graduation Project created for Princess Sumaya's University For Technology in their Computer Graphics and Animation department.
 
 
 
