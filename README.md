@@ -8,11 +8,11 @@ My graduation project is called The Seven Sins : Rebirth. It is an RPG with a ha
 The scripts provided in this project are some of the scripts I wrote for the gameplay. This project was very enjoyable cause it improved not just my coding skills but my general skills in all aspects of game development as well, since my role in this project included:</br>
 
 1- Creating Visual Effects for the Game</br>
-2- Writing all the codes for the game systems and mechanics ( Inventory System, Game AI, Save/Load System , Third Person Controller and a Third Person Camera with collision detection, UI navigation)</br>
+2- Writing all the codes for the game systems and mechanics ( Inventory System, Game AI, Save/Load System , Third Person Controller and a Third Person Camera with collision detection, UI navigation,NPC System,Dialogue System,etc...)</br>
 3-Lighting the scenes and applying Post Processing On them.</br>
 4-Level Design and Enviroment Modelling using Maya 2018 to model and Substance Painter to texture.</br>
 
-*Everything in this game was made from scratch except for the terrain textures I used royality free Images found on google*
+*Everything in this game was made from scratch except for the terrain textures and audio I used royality free Images and sounds found Online*
 
 Programs used for this project: 
 
@@ -21,5 +21,4 @@ Programs used for this project:
 3- Substance Painter</br>
 4- Visual Studio 2017</br>
 5- Adobe Photoshop</br>
-6- Audacity </br>
 
